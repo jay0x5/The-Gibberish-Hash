@@ -1,9 +1,9 @@
-#Author: Jay Desale
-#Date-created: 18th September 2021
-#The main motive of writing this small algorithm is to just play around adding a layer of gibberish between the user password and the hash
-#however i would love to see people recommending me changes and upgrades to make this thing actually useful, if possible:D
-#With all due respect i am unaware if identical algorithms do exist and are older than mine and if they do then please do let me know 
-#i wont call it my own algorithm.
+'''Author: Jay Desale
+Date-created: 18th September 2021
+The main motive of writing this small algorithm is to just play around adding a layer of gibberish between the user password and the hash
+however i would love to see people recommending me changes and upgrades to make this thing actually useful, if possible:D
+With all due respect i am unaware if identical algorithms do exist and are older than mine and if they do then please do let me know 
+i wont call it my own algorithm.'''
 
 #the libraries i needed
 import hashlib
